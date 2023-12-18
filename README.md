@@ -28,16 +28,6 @@ Hello, world! 👋 I'm Mujaddad Fazeel, a passionate and dedicated Full Stack De
 
 ---
 
-## 🚀 Projects
-
-Here are a few projects I've worked on:
-
-- **[ChatApp](https://github.com/m-fazeel/ChatApp)**
-- **[Instagram Clone](https://github.com/m-fazeel/instagram_clone)**
-- **[CNN Image Classification](https://github.com/m-fazeel/image-classification)**
-
----
-
 ## 📫 How to reach me
 
 - 🌐 [mfazeel.com](https://www.mfazeel.com)
