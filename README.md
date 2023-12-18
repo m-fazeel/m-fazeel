@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Mujaddad Fazeel - Full Stack Developer & Computer Science Senior 🚀
+# 🚀 Full Stack Developer 🚀
 
 
 </div>
