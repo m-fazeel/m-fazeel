@@ -4,7 +4,7 @@
 
 </div>
 
-<div align="center">
+<div align="flex">
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-fazeel&theme=dark)
 [![Fazeel's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=m-fazeel&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/m-fazeel/github-readme-stats#gh-dark-mode-only)
