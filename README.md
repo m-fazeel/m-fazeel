@@ -22,10 +22,69 @@ Hello, world! 👋 I'm Mujaddad Fazeel, a passionate and dedicated Full Stack De
 
 ## 👨‍💻 Technologies & Skills
 
-| Programming Languages | Web and Mobile Technologies | Database and Scripting | Operating Systems and Tools | Machine Learning and Others |
-|:----------------------|:-----------------------------|:-----------------------|:---------------------------|:----------------------------|
-| Python, C, Java, C++, JavaScript, Kotlin, MATLAB, TypeScript | HTML5, CSS, React, ExpressJS, NodeJS, Django | MySQL, SQLite, Firebase, MongoDB, Bash, PowerShell | Windows, MacOS, Linux, Git, Microsoft Office | PyTorch, TensorFlow, Scikit-learn, Keras, Pandas, NumPy, SciPy |
-
+<table>
+<tr>
+<th>Programming Languages</th>
+<th>Web and Mobile Technologies</th>
+<th>Database and Scripting</th>
+<th>Operating Systems and Tools</th>
+<th>Machine Learning and Others</th>
+</tr>
+<tr>
+<td>
+<ul>
+<li>Python</li>
+<li>C</li>
+<li>Java</li>
+<li>C++</li>
+<li>JavaScript</li>
+<li>Kotlin</li>
+<li>MATLAB</li>
+<li>TypeScript</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>HTML5</li>
+<li>CSS</li>
+<li>React</li>
+<li>ExpressJS</li>
+<li>NodeJS</li>
+<li>Django</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>MySQL</li>
+<li>SQLite</li>
+<li>Firebase</li>
+<li>MongoDB</li>
+<li>Bash</li>
+<li>PowerShell</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Windows</li>
+<li>MacOS</li>
+<li>Linux</li>
+<li>Git</li>
+<li>Microsoft Office</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>PyTorch</li>
+<li>TensorFlow</li>
+<li>Scikit-learn</li>
+<li>Keras</li>
+<li>Pandas</li>
+<li>NumPy</li>
+<li>SciPy</li>
+</ul>
+</td>
+</tr>
+</table>
 
 ## 📫 Get in Touch
 
