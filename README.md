@@ -15,11 +15,10 @@
 
 </div>
 
----
+## About me
 
 Hello, world! 👋 I'm Mujaddad Fazeel, a passionate and dedicated Full Stack Developer and Computer Science Senior. Driven by a relentless pursuit of knowledge, I aspire to leverage my comprehensive education and burgeoning experience to contribute innovatively to society with cutting-edge software solutions.
 
----
 
 ## 👨‍💻 Technologies & Skills
 
@@ -27,7 +26,6 @@ Hello, world! 👋 I'm Mujaddad Fazeel, a passionate and dedicated Full Stack De
 |:----------------------|:-----------------------------|:-----------------------|:---------------------------|:----------------------------|
 | Python, C, Java, C++, JavaScript, Kotlin, MATLAB, TypeScript | HTML5, CSS, React, ExpressJS, NodeJS, Django | MySQL, SQLite, Firebase, MongoDB, Bash, PowerShell | Windows, MacOS, Linux, Git, Microsoft Office | PyTorch, TensorFlow, Scikit-learn, Keras, Pandas, NumPy, SciPy |
 
----
 
 ## 📫 Get in Touch
 
