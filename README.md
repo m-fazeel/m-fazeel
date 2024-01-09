@@ -1,9 +1,17 @@
 <div align="center">
 
-# 🚀 Full Stack Developer 🚀
-
+# Mujaddad Fazeel | Full Stack Developer 👨🏻‍💻
 
 </div>
+
+<div align="center">
+  
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=m-fazeel&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-fazeel&theme=dark)
+
+</div>
+
+---
 
 Hello, world! 👋 I'm Mujaddad Fazeel, a passionate and dedicated Full Stack Developer and Computer Science Senior. Driven by a relentless pursuit of knowledge, I aspire to leverage my comprehensive education and burgeoning experience to contribute innovatively to society with cutting-edge software solutions.
 
@@ -11,36 +19,20 @@ Hello, world! 👋 I'm Mujaddad Fazeel, a passionate and dedicated Full Stack De
 
 ## 👨‍💻 Technologies & Skills
 
-- **Programming Languages:**  
-  Python, C, Java, C++, JavaScript, Kotlin, MATLAB, TypeScript
-
-- **Web and Mobile Technologies:**  
-  HTML5, CSS, React, ExpressJS, NodeJS, Django, React-Native, Android
-
-- **Database and Scripting Technologies:**  
-  MySQL, SQLite, Firebase, MongoDB, Bash, PowerShell
-
-- **Operating Systems and Tools:**  
-  Windows, MacOS, Linux, Git, Microsoft Office
-
-- **Machine Learning and Other Technologies:**  
-  PyTorch, TensorFlow, Scikit-learn, Keras, Pandas, NumPy, SciPy
+| Programming Languages | Web and Mobile Technologies | Database and Scripting | Operating Systems and Tools | Machine Learning and Others |
+|:----------------------|:-----------------------------|:-----------------------|:---------------------------|:----------------------------|
+| Python, C, Java, C++, JavaScript, Kotlin, MATLAB, TypeScript | HTML5, CSS, React, ExpressJS, NodeJS, Django | MySQL, SQLite, Firebase, MongoDB, Bash, PowerShell | Windows, MacOS, Linux, Git, Microsoft Office | PyTorch, TensorFlow, Scikit-learn, Keras, Pandas, NumPy, SciPy |
 
 ---
 
-## 📫 How to reach me
+## 📫 Get in Touch
 
-- 🌐 [mfazeel.com](https://www.mfazeel.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mujaddad-fazeel/)
+- LinkedIn: [Mujaddad Fazeel](https://www.linkedin.com/in/your-linkedin)
+- Email: `contact@mfazeel.com`
+- Personal Website: [Mujaddad Fazeel's Porfolio](http://www.mfazeel.com)
 
----
+<div align="center">
 
-Looking towards the future, I am committed to the ongoing expansion of my expertise in software development, with the aim to carve a niche for myself in this dynamic industry.
-
----
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=m-fazeel&show_icons=true&theme=graywhite)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-fazeel&hide_progress=false&layout=pie&theme=graywhite)](https://github.com/m-fazeel/github-readme-stats)
+⭐️ From [m-fazeel](https://github.com/m-fazeel)
 
 </div>
