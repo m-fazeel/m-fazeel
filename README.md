@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mujaddad Fazeel | Full Stack Developer 👨🏻‍💻
+# Mujaddad Fazeel | Software Engineer 👨🏻‍💻
 
 </div>
 
