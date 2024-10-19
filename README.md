@@ -17,7 +17,7 @@
 
 ## About me
 
-Hello, world! 👋 I'm Mujaddad Fazeel, a passionate and dedicated Full Stack Developer and Computer Science Senior. Driven by a relentless pursuit of knowledge, I aspire to leverage my comprehensive education and burgeoning experience to contribute innovatively to society with cutting-edge software solutions.
+I'm Mujaddad Fazeel, a passionate and dedicated Software Engineer.
 
 
 ## 👨‍💻 Technologies & Skills
